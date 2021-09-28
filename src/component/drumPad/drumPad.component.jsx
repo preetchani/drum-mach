@@ -10,10 +10,8 @@ class DrumPad extends React.Component{
 
     render(){
         return(
-           <div className="drum-pad"
-            
-           >
-
+           <div className="drum-pad">
+               <audio src=""></audio>
            </div> 
         );
     }
